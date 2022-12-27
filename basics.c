@@ -153,16 +153,7 @@ while(program_launched){
    
 }
 
-
-
-
-
-/*                                                  */
-
-
-
-
-
+    
     //Fin du Programme
 
     SDL_DestroyRenderer(renderer);
